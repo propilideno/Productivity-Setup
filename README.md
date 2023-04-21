@@ -1,6 +1,7 @@
 # Best_SO_Configs
 
 # CLI Based Setup
+- Shell: https://github.com/ohmyzsh/ohmyzsh
 - Full Time Dev IDE: https://github.com/neovim/neovim
 - Text Editor: https://github.com/helix-editor/helix
 - Music Player: https://github.com/clangen/musikcube
