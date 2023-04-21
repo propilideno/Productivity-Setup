@@ -8,7 +8,7 @@
 - Task Manager: https://github.com/htop-dev/htop
 - File Manager: https://github.com/ranger/ranger
 - Fuzzy Finder: https://github.com/junegunn/fzf
-- Neofetch: ``` sudo apt install neofetch ```
+- System Info: ``` sudo apt install neofetch ```
 
 # Customizations
 - Astronvim: https://github.com/AstroNvim/AstroNvim
