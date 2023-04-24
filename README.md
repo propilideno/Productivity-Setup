@@ -1,6 +1,6 @@
 # Operating System
 - SO: ArchLinux / Kubuntu / Kali Linux
-- Desktop Environment: KDE
+- Desktop Environment: KDE > Gnome
 
 # CLI Based Setup
 - Shell: https://github.com/ohmyzsh/ohmyzsh
