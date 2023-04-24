@@ -2,7 +2,7 @@
 The goal of this repository is show the tools for better productivity, focusing on CLI (Command Line Interface), that means you should be able to do almost everything using only your terminal. Using more keyboard and less the mouse will allow you to improve your productivity.
 
 # Operating System
-- SO: 
+- SO: Using linux will force you to use more your terminal, improving your productivity. Don't try arch linux as your first SO because you will feel very uncomfortable. Most developers use Debian-based distros as their main operating system.
   1. **Beginner:** Kubuntu
   2. **Medium/Advanced**: Arch Linux
 - Desktop Environment: KDE > GNOME
