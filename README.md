@@ -1,9 +1,11 @@
 # Operating System
-- SO: ArchLinux / Kubuntu / Kali Linux
-- Desktop Environment: KDE > Gnome
+- SO: 
+  1. **Beginner:** Kubuntu
+  2. **Medium/Advanced**: Arch Linux
+- Desktop Environment: KDE > GNOME
 
 # CLI Based Setup
-- Shell: https://github.com/ohmyzsh/ohmyzsh
+- Shell (ZSH): https://github.com/ohmyzsh/ohmyzsh
 - Full Time Dev IDE: https://github.com/neovim/neovim
 - Text Editor: https://github.com/helix-editor/helix
 - Music Player: https://github.com/clangen/musikcube
