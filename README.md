@@ -5,6 +5,7 @@
 - Full Time Dev IDE: https://github.com/neovim/neovim
 - Text Editor: https://github.com/helix-editor/helix
 - Music Player: https://github.com/clangen/musikcube
+- Video Player: https://github.com/mpv-player/mpv
 - Task Manager: https://github.com/htop-dev/htop
 - File Manager: https://github.com/ranger/ranger
 - Fuzzy Finder: https://github.com/junegunn/fzf
