@@ -13,3 +13,9 @@
 # Customizations
 - Astronvim: https://github.com/AstroNvim/AstroNvim
 - Terminal Font: JetBrainsMono Nerd, Size: 13
+
+# Nvim Customizations:
+- Package/Plugin Management: https://github.com/wbthomason/packer.nvim
+- TreeSitter: https://github.com/nvim-treesitter/nvim-treesitter
+- UndoTree: https://github.com/mbbill/undotree
+- Harpoon: https://github.com/ThePrimeagen/harpoon
