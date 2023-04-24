@@ -1,3 +1,6 @@
+# Description
+The goal of this repository is show the tools for better productivity, focusing on CLI (Command Line Interface), that means you should be able to do almost everything using only your terminal. Using more keyboard and less the mouse will allow you to improve your productivity.
+
 # Operating System
 - SO: 
   1. **Beginner:** Kubuntu
