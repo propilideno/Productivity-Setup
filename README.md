@@ -1,4 +1,6 @@
-# Best_SO_Configs
+# Operating System
+- SO: ArchLinux / Kubuntu / Kali Linux
+- Desktop Environment: KDE
 
 # CLI Based Setup
 - Shell: https://github.com/ohmyzsh/ohmyzsh
