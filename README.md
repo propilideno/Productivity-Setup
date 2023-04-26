@@ -27,3 +27,8 @@ The goal of this repository is show the tools for better productivity, focusing 
 - TreeSitter: https://github.com/nvim-treesitter/nvim-treesitter
 - UndoTree: https://github.com/mbbill/undotree
 - Harpoon: https://github.com/ThePrimeagen/harpoon
+
+
+# Validating
+- CheatSheet: https://github.com/dbrgn/tealdeer
+- Cryptograph & Setup Env: https://github.com/ansible/ansible
