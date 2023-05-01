@@ -17,6 +17,7 @@ The goal of this repository is show the tools for better productivity, focusing 
 - File Manager: https://github.com/ranger/ranger
 - Fuzzy Finder: https://github.com/junegunn/fzf
 - System Info: ``` sudo apt install neofetch ```
+- Markdown Render: https://github.com/charmbracelet/glow
 
 # Customizations
 - Astronvim: https://github.com/AstroNvim/AstroNvim
