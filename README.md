@@ -18,6 +18,7 @@ The goal of this repository is show the tools for better productivity, focusing 
 - Fuzzy Finder: https://github.com/junegunn/fzf
 - System Info: ``` sudo apt install neofetch ```
 - Markdown Render: https://github.com/charmbracelet/glow
+- CheatSheet: https://github.com/dbrgn/tealdeer
 
 # Customizations
 - Astronvim: https://github.com/AstroNvim/AstroNvim
@@ -31,5 +32,16 @@ The goal of this repository is show the tools for better productivity, focusing 
 
 
 # Validating
-- CheatSheet: https://github.com/dbrgn/tealdeer
 - Cryptograph & Setup Env: https://github.com/ansible/ansible
+
+# PPA Repo for C++
+Add to apt repo
+```
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt-get update
+```
+Download latest dev tools for C++
+```
+sudo apt install gcc-10 gcc-10-base gcc-10-doc g++-10
+sudo apt install libstdc++-10-dev libstdc++-10-doc 
+```
